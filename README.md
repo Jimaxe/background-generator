@@ -1,1 +1,1 @@
-https://jimaxe.github.io/background-generator/
+https://jimaxe.github.io/background_generator/
